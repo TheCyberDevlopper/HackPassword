@@ -1,0 +1,5 @@
+# HackPassword
+
+Action:
+
+       JustNumber()
